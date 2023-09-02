@@ -13,7 +13,7 @@ This template should help get you started developing with Tauri, React and Types
 ## Install for development
 
 ```bash
-git clone https://github.com/fazt/tauri-react-app
+git clone https://github.com/leonmarino/tauri-react-app
 cd tauri-react-app
 npm install
 npm run tauri dev
